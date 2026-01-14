@@ -1,6 +1,5 @@
-# LeetcodeNights
-
-Practicing Leetcode
+# Interview Prep Implementations
+Practicing Leetcode/Hacker Rank
 
 <details>
   <summary>Arrays </summary>
