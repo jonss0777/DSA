@@ -2,7 +2,7 @@
 
 Practicing Leetcode/Hacker Rank
 
-Using CLR text book are reference and implementing some of the problems for each chapter.
+Using CLR text book as reference and implementing some of the problems for each chapter.
 <details>
   <summary>Arrays </summary>
   
